@@ -1,7 +1,7 @@
 # Frontend Mentor - Blogr landing page solution
 
 Esta é uma solução para [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP).
-</ br>
+<br />
 Minha solução: https://tdb27.github.io/onepage-responsive/
 
 ## Table of contents
@@ -27,8 +27,14 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+<p align="center">
+  Screenshot to mobile (375px)
+  <br />
+  <img src="https://github.com/TdB27/onepage-responsive/blob/main/assets/screenshots/Screenshot-to-mobile.png" width="350" alt="Screenshot to mobile">
+  <br />
+  Screenshot to desktop (1440px)
+  <img src="https://github.com/TdB27/onepage-responsive/blob/main/assets/screenshots/Screenshot-to-desktop.png" width="100%" alt="Screenshot to desktop">
+</p>
 
 ### Links
 
