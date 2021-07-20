@@ -1,8 +1,8 @@
 # Frontend Mentor - Blogr landing page solution
 
 Esta é uma solução para [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP).
-</ br
->Minha solução: https://tdb27.github.io/onepage-responsive/
+</ br>
+Minha solução: https://tdb27.github.io/onepage-responsive/
 
 ## Table of contents
 
